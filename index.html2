@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <footer>
         <h1>Renault Retail Group</h1>
         <nav>
             <ul>
@@ -18,7 +18,7 @@
                 <li><a href="#Melrose">Melrose</a></li>
             </ul>
         </nav>
-        <p>&copy; 2023 Renault Retail Group. All rights reserved.</p>
+        <p>&copy; 2025 Renault Retail Group. All rights reserved.</p>
     </footer>
 </body>
 </html>

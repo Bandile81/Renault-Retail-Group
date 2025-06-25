@@ -7,19 +7,21 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <><a href="#melrose">Melrose (Home)</a></li>
-                <li><a href="#edenvale">Edenvale (About Us)</a></li>
-                <li><a href="#silverlakes">Silverlakes (Services)</a></li>
-                <li><a href="#bryanston">Bryanston (Contact)</a></li>
+    <><a href="#melrose">Melrose</a></li>
+                <li><a href="#edenvale">Edenvale</a></li>
+                <li><a href="#silverlakes">Silverlakes</a></li>
+                <li><a href="#bryanston">Bryanston</a></li>
             </ul>
         </nav>
     </header>
     <section id="melrose">
-        <h2>Welcome to Renault Retail Group>
-        <p>Renault Retail Group is dedicated to providing exceptional service and quality vehicles from Renault SA.</p>
+          <ul>
+            <li>Sales</li>
+            <li>Banking</li>
+            <li>Dealer Activity</li>
+        </ul>
     </section>
     <section id="silverlakes">
-        <h2>Our Services</h2>
         <ul>
             <li>Sales</li>
             <li>Banking</li>
@@ -27,19 +29,14 @@
         </ul>
     </section>
     <section id="bryanston">
-        <h2>Contact Us</h2>
-        <form>
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
-            <button type="submit">Send</button>
-        </form>
+           <ul>
+            <li>Sales</li>
+            <li>Banking</li>
+            <li>Dealer Activity</li>
+        </ul>
     </section>
     <footer>
-        <p>&copy; 2023 Renault Retail Group. All rights reserved.</p>
+        <p>&copy; 2025 Renault Retail Group. All rights reserved.</p>
     </footer>
 </body>
 </html>

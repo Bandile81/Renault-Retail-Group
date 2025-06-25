@@ -1,39 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Renault Retail Group</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <footer>
-        <h1>Renault Retail Group</h1>
-        <nav>
-            <ul>
-                <li><a href="#Bryanston">Bryanston</a></li>
-                <li><a href="#Edenvale">Edenvale</a></li>
-                <li><a href="#Silverlakes">Silverlakes</a></li>
-                <li><a href="#Melrose">Melrose</a></li>
-            </ul>
-        </nav>
-        <p>&copy; 2025 Renault Retail Group. All rights reserved.</p>
-    </footer>
-</body>
-</html>
-<header>
-    <img src="logo.png" alt="Renault Retail Group Logo" class="logo">
-    <h1>Renault Retail Group</h1>
-    <nav>
-        <ul>
-            <li><a href="#Bryanston">Bryanston</a></li>
-            <li><a href="#Edenvale">Edenvale</a></li>
-            <li><a href="#Silverlakes">Silverlakes</a></li>
-            <li><a href="#Melrose">Melrose</a></li>
-        </ul>
-    </nav>
-</header>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,21 +7,19 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <><a href="#melrose">Melrose</a></li>
-                <li><a href="#edenvale">Edenvale</a></li>
-                <li><a href="#silverlakes">Silverlakes</a></li>
-                <li><a href="#bryanston">Bryanston</a></li>
+    <><a href="#melrose">Melrose (Home)</a></li>
+                <li><a href="#edenvale">Edenvale (About Us)</a></li>
+                <li><a href="#silverlakes">Silverlakes (Services)</a></li>
+                <li><a href="#bryanston">Bryanston (Contact)</a></li>
             </ul>
         </nav>
     </header>
     <section id="melrose">
-        <ul>
-            <li>Sales</li>
-            <li>Banking</li>
-            <li>Dealer Activity</li>
-        </ul>
+        <h2>Welcome to Renault Retail Group>
+        <p>Renault Retail Group is dedicated to providing exceptional service and quality vehicles from Renault SA.</p>
     </section>
     <section id="silverlakes">
+        <h2>Our Services</h2>
         <ul>
             <li>Sales</li>
             <li>Banking</li>
@@ -65,14 +27,19 @@
         </ul>
     </section>
     <section id="bryanston">
-        <ul>
-            <li>Sales</li>
-            <li>Banking</li>
-            <li>Dealer Activity</li>
-        </ul>
+        <h2>Contact Us</h2>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
     </section>
     <footer>
-        <p>&copy; 2025 Renault Retail Group. All rights reserved.</p>
+        <p>&copy; 2023 Renault Retail Group. All rights reserved.</p>
     </footer>
 </body>
 </html>

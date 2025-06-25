@@ -5,10 +5,10 @@ This is the official website for Renault Retail Group, representing Renault SA d
 
 ## Sections
 
-- Home
-- About
-- Services (Sales, Banking, Dealer Activity)
-- Contact
+- Bryanston
+- Edenvale
+- Silverlakes
+- Melrose
 
 ## Style
 

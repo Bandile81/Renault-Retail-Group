@@ -22,3 +22,15 @@
     </footer>
 </body>
 </html>
+<header>
+    <img src="logo.png" alt="Renault Retail Group Logo" class="logo">
+    <h1>Renault Retail Group</h1>
+    <nav>
+        <ul>
+            <li><a href="#Bryanston">Bryanston</a></li>
+            <li><a href="#Edenvale">Edenvale</a></li>
+            <li><a href="#Silverlakes">Silverlakes</a></li>
+            <li><a href="#Melrose">Melrose</a></li>
+        </ul>
+    </nav>
+</header>

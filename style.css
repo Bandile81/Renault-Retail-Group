@@ -34,10 +34,10 @@ section {
     margin: 2em 0;
 }
 
-footer {
+header {
   .logo {
     height: 60px;
-    vertical-align: middle;
+    vertical-align: right;
     margin-right: 15px;
 }
 header {
